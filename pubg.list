@@ -1,0 +1,1449 @@
+IP-CIDR,101.226.103.110,REJECT
+
+ IP-CIDR,101.91.63.102,REJECT
+
+ IP-CIDR,182.254.116.120,REJECT
+
+ IP-CIDR,120.241.190.111,REJECT
+
+ IP-CIDR,101.91.63.100,REJECT
+
+ DOMAIN,wxlobby.pg.qq.com,DIRECT
+
+ DOMAIN,dlied5.myapp.com,REJECT
+
+ DOMAIN,hb.url.cn,REJECT
+
+ DOMAIN,testg.tcls.qq.com,REJECT
+
+ DOMAIN,cs.g.book.qq.com,REJECT
+
+ DOMAIN,capi.voice.gcloud.qq.com,REJECT
+
+ DOMAIN,sq04.pg.qq.com,REJECT
+
+ DOMAIN,sq13.pg.qq.com,REJECT
+
+ DOMAIN,speed.ino.qq.com,REJECT
+
+ DOMAIN,sgameprobe.tgpa.qq.com,REJECT
+
+ DOMAIN,probe.tgpa.qq.com,REJECT
+
+ DOMAIN,soup.v.qq.com,REJECT
+
+ DOMAIN,configsvr.openmsf.3g.qq.com,REJECT
+
+ USER-AGENT,Survive/9151,REJECT
+
+ USER-AGENT,CFNetwork/1126,REJECT
+
+ 
+
+ DOMAIN,api.themoviedb.org,REJECT
+
+ DOMAIN,wxlobby.pg.qq.com,DIRECT
+
+ 
+
+ DOMAIN-KEYWORD,jb88888.cc,REJECT
+
+ 
+
+ 
+
+ DOMAIN-KEYWORD,wzrkt.com,REJECTDOMAIN,drmenv.auth-gmspack.xyz,REJECT
+
+ DOMAIN,download.ksk2oskwv-pd.xyz,REJECT
+
+ DOMAIN-KEYWORD,mbgame,REJECT
+
+ DOMAIN-KEYWORD,tgpa.qq.com,REJECT
+
+ DOMAIN-KEYWORD,tga.qq.com,REJECT
+
+ DOMAIN,cschannel.anticheatexpert.com,REJECT
+
+ DOMAIN,dlied5.qq.com,REJECT
+
+ DOMAIN,hpdwown.dlied.qq.com,REJECT
+
+ DOMAIN,huatuocode.huatuo.qq.com,REJECT
+
+ DOMAIN,thirdqq.qlogo.cn,REJECT
+
+ DOMAIN,szmg.qq.com,REJECT
+
+ DOMAIN,game.gtimg.cn,REJECT
+
+ DOMAIN,log1.wtlogin.qq.com,REJECT
+
+ DOMAIN,test.mhzx.qq.com,REJECT
+
+ DOMAIN,update1.dlied.tc.qq.com,REJECT
+
+ DOMAIN,dlied5.myapp.tcdn.qq.com,REJECT
+
+ DOMAIN,dlied7.myapp.com,REJECT
+
+ DOMAIN,dlied4.myapp.tc.qq.com,REJECT
+
+ DOMAIN,dlied1.qq.com.tcdn.qq.com,REJECT
+
+ DOMAIN,dlied1.tc.qq.com,REJECT
+
+ DOMAIN,mig.eve.mdt.qq.com,REJECT
+
+ DOMAIN,resstatic.servicewechat.tc.qq.com,REJECT
+
+ DOMAIN,update1.dlied.qq.com,REJECT
+
+ DOMAIN,webpush.wx.qq.com,REJECT
+
+ DOMAIN,update1.dlied.tcdn.qq.com,REJECT
+
+ DOMAIN,wx1.qq.com,REJECT
+
+ DOMAIN,www.miomio.ltd,REJECT
+
+ DOMAIN,miomio.ltd,REJECT
+
+ DOMAIN,down.wildviewgames.tc.qq.com,REJECT
+
+ DOMAIN,dlied9.myapp.com,REJECT
+
+ DOMAIN,down-wsh.qq.com,REJECT
+
+ DOMAIN,mtt.eve.mdt.qq.com,REJECT
+
+ DOMAIN,down-update.qq.com,REJECT
+
+ DOMAIN,dlied1.tcdn.qq.com,REJECT
+
+ DOMAIN,down.qq.com.tcdn.qq.com,REJECT
+
+ DOMAIN,dlied4.myapp.tcdn.qq.com,REJECT
+
+ DOMAIN,down.pandora.qq.com.cloud.tc.qq.com,REJECT
+
+ DOMAIN,apm.wetest.qq.com,REJECT
+
+ DOMAIN,down.wildviewgames.tcdn.qq.com,REJECT
+
+ DOMAIN,qbwup.imtt.qq.com,REJECT
+
+ DOMAIN,pandoracdn.amsoveasea.com,REJECT
+
+ DOMAIN,pingfore.qq.com,REJECT
+
+ DOMAIN,pingma.qq.com,REJECT
+
+ DOMAIN,priv.igame.qq.com,REJECT
+
+ DOMAIN,sq40.pg.qq.com,REJECT
+
+ DOMAIN,master.solar.qq.com,REJECT
+
+ DOMAIN,sq14.pg.qq.com,REJECT
+
+ DOMAIN,qosidc.gcloud.qq.com,REJECT
+
+ DOMAIN,thirdwx.qlogo.cn,REJECT
+
+ DOMAIN,cwx.qlogo.cn,REJECT
+
+ DOMAIN,sq1.pg.qq.com,REJECT
+
+ DOMAIN,g79.gdl.netease.com,REJECT
+
+ DOMAIN,h55.gph.netease.com,REJECT
+
+ DOMAIN,live-dtocnc-cdn.ysp.cctv.cn,REJECT
+
+ DOMAIN,livews-hls.5club.cctv.cn,REJECT
+
+ DOMAIN,bklive-dtocnc-cdn.ysp.cctv.cn,REJECT
+
+ DOMAIN,g79.gph.netease.com,REJECT
+
+ DOMAIN,download.jetbrains.8686c.com,REJECT
+
+ DOMAIN,file.sangfor.com.cn,REJECT
+
+ DOMAIN,pptv.vod.lxdns.com,REJECT
+
+ DOMAIN,cdnsrc.v.cctv.com,REJECT
+
+ DOMAIN,x19.gdl.netease.com,REJECT
+
+ DOMAIN,cctvcnch5c.v.wscdns.com,REJECT
+
+ DOMAIN,repo.huaweicloud.com,REJECT
+
+ DOMAIN,coolcdn.igetcool.com,REJECT
+
+ DOMAIN,www.tj51door.com,REJECT
+
+ DOMAIN,xiamencncc.v.wscdns.com,REJECT
+
+ DOMAIN,xy2.gdl.netease.com,REJECT
+
+ DOMAIN,appstore.download.hismarttv.com,REJECT
+
+ DOMAIN,cdno8.jiankangkuaile99.com,REJECT
+
+ DOMAIN,liveop.cctv.cn,REJECT
+
+ DOMAIN,piccdn.luojilab.com,REJECT
+
+ DOMAIN,livews-tp4k.cctv.cn,REJECT
+
+ DOMAIN,ytpvod-ws.cctv.cn,REJECT
+
+ DOMAIN,dlcs.e836g.com,REJECT
+
+ DOMAIN,live.5club.cctv.cn,REJECT
+
+ DOMAIN,v1-ttvideo.qunliao.info,REJECT
+
+ DOMAIN,ytpvod-ws.cctv.cn.wsdvs.com,REJECT
+
+ DOMAIN,neteasedl.dlmixss.ourdvs.com,REJECT
+
+ DOMAIN,pcvideows.titan.mgtv.com,REJECT
+
+ DOMAIN,h65.gph.netease.com,REJECT
+
+ DOMAIN,lyzt56789.highfungame.com,REJECT
+
+ DOMAIN,newscnch5c.v.wscdns.com,REJECT
+
+ DOMAIN,livews-4k.5club.cctv.cn,REJECT
+
+ DOMAIN,x19.fp.ps.netease.com,REJECT
+
+ DOMAIN,video.cwl.gov.cn,REJECT
+
+ DOMAIN,download.gigabyte.cn,REJECT
+
+ DOMAIN,cctvcncw.v.wscdns.com,REJECT
+
+ DOMAIN,client03.pdl.wow.battlenet.com.cn,REJECT
+
+ DOMAIN,down.anticheatexpert.com,REJECT
+
+ DOMAIN,appdl-drcn.dbankcdn.com,REJECT
+
+ DOMAIN,downpay.m1905.cn,REJECT
+
+ DOMAIN,pic.cdn.sunmi.com,REJECT
+
+ DOMAIN,xyq.gdl.netease.com,REJECT
+
+ DOMAIN,file3.data.weipan.cn.wscdns.com,REJECT
+
+ DOMAIN,dl01.ledo.com,REJECT
+
+ DOMAIN,uu.gdl.netease.com,REJECT
+
+ DOMAIN,ms4m.hebei.com.cn.wsdvs.com,REJECT
+
+ DOMAIN,cctvcnchww.v.cdn20.com,REJECT
+
+ DOMAIN,cctv5cnch5ca.v.wscdns.com,REJECT
+
+ DOMAIN,cctvcncsdrm.v.wscdns.com,REJECT
+
+ DOMAIN,ruanshi2.8686c.com,REJECT
+
+ DOMAIN,ws7.egbgedu.com,REJECT
+
+ DOMAIN,update3.sangfor.net,REJECT
+
+ DOMAIN,ruanshi1.8686c.com,REJECT
+
+ DOMAIN,fangao.zzwc120.com,REJECT
+
+ DOMAIN,livewai.sdetv.com.cn,REJECT
+
+ DOMAIN,ma77.gdl.netease.com,REJECT
+
+ DOMAIN,cdn.powerapp.io,REJECT
+
+ DOMAIN,wscdn.hls.video.qq.com,REJECT
+
+ DOMAIN,www.hbgbzx.gov.cn,REJECT
+
+ DOMAIN,dl-v1.1tai.com,REJECT
+
+ DOMAIN,gcdncs.101.com,REJECT
+
+ DOMAIN,videong.skzic.cn,REJECT
+
+ DOMAIN,file.gc.com.cn.wsdvs.com,REJECT
+
+ DOMAIN,agmjjzyi.trfotfz.cn,REJECT
+
+ DOMAIN,client02.pdl.wow.battlenet.com.cn,REJECT
+
+ DOMAIN,3m.knigh.cn,REJECT
+
+ DOMAIN,bj.download.cycore.cn,REJECT
+
+ DOMAIN,cdnres.xiuxian.shiyuegame.com,REJECT
+
+ DOMAIN,sdxlpatch-ws.wmupd.com,REJECT
+
+ DOMAIN,download.shengli.com,REJECT
+
+ DOMAIN,cdnxhy.tisgame.com,REJECT
+
+ DOMAIN,wangsu.vod.pptv.com,REJECT
+
+ DOMAIN,hls.cntv.lxdns.com,REJECT
+
+ DOMAIN,videocache.harleypie.cn,REJECT
+
+ DOMAIN,car.ximalaya.com,REJECT
+
+ DOMAIN,down.7k7k.com,REJECT
+
+ DOMAIN,update.dbankcdn.com,REJECT
+
+ DOMAIN,ub.xf0371.com,REJECT
+
+ DOMAIN,osce12-p.activeupdate.asiainfo-sec.com,REJECT
+
+ DOMAIN,vbox.hf.openstorage.cn,REJECT
+
+ DOMAIN,mivideo.g.mi.com,REJECT
+
+ DOMAIN,jh.01lm.com,REJECT
+
+ DOMAIN,vodm2lzexwq.vod.126.net,REJECT
+
+ DOMAIN,stream.massp.cn,REJECT
+
+ DOMAIN,wy-qq.cnylzxjx.com,REJECT
+
+ DOMAIN,vip.w.xk.miui.com,REJECT
+
+ DOMAIN,d.updater.i4.cn,REJECT
+
+ DOMAIN,flv4.people.com.cn,REJECT
+
+ DOMAIN,v1.xsj.wasu.tv,REJECT
+
+ DOMAIN,v1-dy.ixigua.com,REJECT
+
+ DOMAIN,jsonatm.broker.tplay.qq.com,REJECT
+
+ DOMAIN,qqlogic.tf.qq.com,REJECT
+
+ DOMAIN,wukong1.gamesafe.qq.com,REJECT
+
+ DOMAIN,tools.tmga.qq.com,REJECT
+
+ DOMAIN,cjm.broker.tplay.qq.com,REJECT
+
+ DOMAIN,comic.qq.com,REJECT
+
+ DOMAIN,17500.aioks.cn,REJECT
+
+ DOMAIN,sqlobby.pg.qq.com,REJECT
+
+ DOMAIN,public.hlaccess.tencent-cloud.net,REJECT
+
+ DOMAIN,mdevstat.qqlive.qq.com,REJECT
+
+ DOMAIN,sq24.pg.qq.com,REJECT
+
+ DOMAIN,new-otheve.play.aiseet.atianqi.com,REJECT
+
+ DOMAIN,oth.eve.mdt.qq.com,REJECT
+
+ DOMAIN,game.eve.mdt.qq.com,REJECT
+
+ DOMAIN,oth.bls.mdt.qq.com,REJECT
+
+ DOMAIN,cs.mbgame.gamesafe.qq.com,REJECT
+
+ DOMAIN,nj.cschannel.anticheatexpert.com,REJECT
+
+ DOMAIN,cs.mainconn.gamesafe.qq.com,REJECT
+
+ DOMAIN,cs.mbgame.anticheatexpert.com,REJECT
+
+ DOMAIN,ipv6.mainconn.gamesafe.qq.com,REJECT
+
+ DOMAIN,tcls-2nd.qq.com,REJECT
+
+ DOMAIN,qq.paopao.qq.com,REJECT
+
+ DOMAIN,tel.exp.omd.qq.com,REJECT
+
+ DOMAIN,guid.tpns.sh.tencent.com,REJECT
+
+ DOMAIN,stat.tpns.sh.tencent.com,REJECT
+
+ DOMAIN,log.tpns.sh.tencent.com,REJECT
+
+ DOMAIN,he8nvbq7.dayugslb.com,REJECT
+
+ DOMAIN,access1.tpns.sh.tencent.com,REJECT
+
+ DOMAIN,qyapi.weixin.qq.com,REJECT
+
+ DOMAIN,aeventlog.beacon.qq.com,REJECT
+
+ DOMAIN,ip6.ssl.msdk.qq.com,REJECT
+
+ DOMAIN,a.ssl.msdk.qq.com,REJECT
+
+ DOMAIN,ap6.ssl.msdk.qq.com,REJECT
+
+ DOMAIN,ssl.msdk.qq.com,REJECT
+
+ DOMAIN,log.pg.qq.com,REJECT
+
+ DOMAIN,di.ssl.msdk.qq.com,REJECT
+
+ DOMAIN,da.ssl.msdk.qq.com,REJECT
+
+ DOMAIN,i.ssl.msdk.qq.com,REJECT
+
+ DOMAIN,dlied4.myapp.com,REJECT
+
+ DOMAIN,gokdown.qq.com,REJECT
+
+ DOMAIN,down.pandora.qq.com,REJECT
+
+ DOMAIN,down.qq.com,REJECT
+
+ DOMAIN,dlied1.qq.com,REJECT
+
+ DOMAIN,cloudctrl.gcloud.qq.com,REJECT
+
+ DOMAIN,doctor.gcloud.tencent.com,REJECT
+
+ DOMAIN,cloudctrl.gcloudsdk.com,REJECT
+
+ DOMAIN,agpolis.com,REJECT
+
+ DOMAIN,promreport.crm2.qq.com,REJECT
+
+ DOMAIN,ssl.gongyi.qq.com,REJECT
+
+ DOMAIN,oth.str.mdt.qq.com,REJECT
+
+ DOMAIN,astrategy.beacon.qq.com,REJECT
+
+ DOMAIN,game.str.mdt.qq.com,REJECT
+
+ DOMAIN,yyb.str.mdt.qq.com,REJECT
+
+ DOMAIN,mig.str.mdt.qq.com,REJECT
+
+ DOMAIN,t.dstrategy.myapp.com,REJECT
+
+ DOMAIN,mtt.str.mdt.qq.com,REJECT
+
+ DOMAIN,istrategy.beacon.qq.com,REJECT
+
+ DOMAIN,cntgw.tiantang.qq.com,REJECT
+
+ DOMAIN,quanyou.qq.com,REJECT
+
+ DOMAIN,3gimg.qq.com,REJECT
+
+ DOMAIN,image.smoba.qq.com,REJECT
+
+ DOMAIN,cf.qq.com,REJECT
+
+ DOMAIN,lol.qq.com,REJECT
+
+ DOMAIN,3gimg.qq.com.x2v6.sched.dcloudstc.com,REJECT
+
+ DOMAIN,h5.huanle.qq.com.cloud.tc.qq.com,REJECT
+
+ DOMAIN,cdn.bookimg.html5.qq.com,REJECT
+
+ DOMAIN,other.x2v6.sched.dcloudstc.com,REJECT
+
+ DOMAIN,p1.map.gtimg.com,REJECT
+
+ DOMAIN,manhua.qpic.cn,REJECT
+
+ DOMAIN,image.ttwz.qq.com,REJECT
+
+ DOMAIN,cms.gtimg.com,REJECT
+
+ DOMAIN,img.crawler.qq.com,REJECT
+
+ DOMAIN,img.msdk.qq.com,REJECT
+
+ DOMAIN,3gscript.3g.qq.com,REJECT
+
+ DOMAIN,rt1.map.gtimg.com,REJECT
+
+ DOMAIN,ylztweb.qq.com,REJECT
+
+ DOMAIN,img.ssl.msdk.qq.com,REJECT
+
+ DOMAIN,rt0.map.gtimg.com,REJECT
+
+ DOMAIN,tdns.x2.sched.dcloudstc.com,REJECT
+
+ DOMAIN,qpic.url.cn,REJECT
+
+ DOMAIN,gtimg.x2.sched.dcloudstc.com,REJECT
+
+ DOMAIN,bb.img.qq.com,REJECT
+
+ DOMAIN,codm.qq.com,REJECT
+
+ DOMAIN,zqnba.qq.com.cloud.tc.qq.com,REJECT
+
+ DOMAIN,bla.gtimg.com,REJECT
+
+ DOMAIN,ossweb-img.qq.com,REJECT
+
+ DOMAIN,i.gtimg.x2v6.sched.dcloudstc.com,REJECT
+
+ DOMAIN,pc2.gtimg.com,REJECT
+
+ DOMAIN,cfhd.cf.qq.com,REJECT
+
+ DOMAIN,bns.qq.com,REJECT
+
+ DOMAIN,stdl.qq.com,REJECT
+
+ DOMAIN,wegame.gtimg.com,REJECT
+
+ DOMAIN,cdn.read.html5.qq.com,REJECT
+
+ DOMAIN,app.daoju.qq.com,REJECT
+
+ DOMAIN,pvp.qq.com,REJECT
+
+ DOMAIN,if.qq.com,REJECT
+
+ DOMAIN,hyrz.qq.com,REJECT
+
+ DOMAIN,x5m.qq.com,REJECT
+
+ DOMAIN,cfm.qq.com,REJECT
+
+ DOMAIN,baba.qq.com,REJECT
+
+ DOMAIN,yxcq.qq.com,REJECT
+
+ DOMAIN,cdnjs.gtimg.com,REJECT
+
+ DOMAIN,pg.qq.com,REJECT
+
+ DOMAIN,ctx.qq.com,REJECT
+
+ DOMAIN,cdn.tgp.qq.com,REJECT
+
+ DOMAIN,js.aq.qq.com,REJECT
+
+ DOMAIN,zhen.qq.com,REJECT
+
+ DOMAIN,xx2.qq.com,REJECT
+
+ DOMAIN,rt2.map.gtimg.com,REJECT
+
+ DOMAIN,cdn.wetest.qq.com,REJECT
+
+ DOMAIN,down.game.qq.com,REJECT
+
+ DOMAIN,x2.tcdn.qq.com,REJECT
+
+ DOMAIN,3gimg.qq.com.x2.sched.dcloudstc.com,REJECT
+
+ DOMAIN,iu.qq.com,REJECT
+
+ DOMAIN,game.gtimg.cn.tcdn.qq.com,REJECT
+
+ DOMAIN,youxi.vip.qq.com,REJECT
+
+ DOMAIN,ylzt.qq.com,REJECT
+
+ DOMAIN,lycq.qq.com,REJECT
+
+ DOMAIN,gpcloud.tgpa.qq.com,REJECT
+
+ DOMAIN,uc.gtimg.cn,REJECT
+
+ DOMAIN,ieventlog.beacon.qq.com,REJECT
+
+ DOMAIN,android.myapp.com,REJECT
+
+ DOMAIN,safeurl.safejmp.com,REJECT
+
+ DOMAIN,tools.3g.qq.com,REJECT
+
+ DOMAIN,m.guanjia.qq.com,REJECT
+
+ DOMAIN,doc.qq.com,REJECT
+
+ DOMAIN,bbs.zjbl.qq.com,REJECT
+
+ DOMAIN,openapi.guanjia.qq.com,REJECT
+
+ DOMAIN,jiasu.qq.com,REJECT
+
+ DOMAIN,pcmgr.qq.com,REJECT
+
+ DOMAIN,med-biz.wecity.qq.com,REJECT
+
+ DOMAIN,iauth-sandbox.wecity.qq.com,REJECT
+
+ DOMAIN,110.tencent.com,REJECT
+
+ DOMAIN,dp.telesafe.qq.com,REJECT
+
+ DOMAIN,qqdesk.qq.com,REJECT
+
+ DOMAIN,root.qq.com,REJECT
+
+ DOMAIN,image.qq.com,REJECT
+
+ DOMAIN,testdev.pcmgr.qq.com,REJECT
+
+ DOMAIN,sdi.wecity.qq.com,REJECT
+
+ DOMAIN,snd.gj.qq.com,REJECT
+
+ DOMAIN,bj.gj.qq.com,REJECT
+
+ DOMAIN,yingyongbao.myapp.com,REJECT
+
+ DOMAIN,jsdx.safejmp.com,REJECT
+
+ DOMAIN,yeah.qq.com,REJECT
+
+ DOMAIN,bsafe.qq.com,REJECT
+
+ DOMAIN,habo.qq.com,REJECT
+
+ DOMAIN,bbs.guanjia.qq.com,REJECT
+
+ DOMAIN,anxin.qq.com,REJECT
+
+ DOMAIN,image.urlsec.qq.com,REJECT
+
+ DOMAIN,avd.qq.com,REJECT
+
+ DOMAIN,mac.qq.com,REJECT
+
+ DOMAIN,bao.myapp.com,REJECT
+
+ DOMAIN,desk.qq.com,REJECT
+
+ DOMAIN,res.qq.com,REJECT
+
+ DOMAIN,netsp.master.qq.com,REJECT
+
+ DOMAIN,security.sparta.mig.tencent-cloud.net,REJECT
+
+ DOMAIN,pim.qq.com,REJECT
+
+ DOMAIN,wsmr.3g.qq.com,REJECT
+
+ DOMAIN,wisdom.acc.qq.com,REJECT
+
+ DOMAIN,tavserver.qq.com,REJECT
+
+ DOMAIN,finsec.qq.com,REJECT
+
+ DOMAIN,team.qq.com,REJECT
+
+ DOMAIN,mac.gj.qq.com,REJECT
+
+ DOMAIN,xti.qq.com,REJECT
+
+ DOMAIN,xlab.tencent.com,REJECT
+
+ DOMAIN,c.softmgr.qq.com,REJECT
+
+ DOMAIN,comvee.wojiankang.cn,REJECT
+
+ DOMAIN,yingyan.qq.com,REJECT
+
+ DOMAIN,ark.m.qq.com,REJECT
+
+ DOMAIN,tdid.m.qq.com,REJECT
+
+ DOMAIN,adaf.qq.com,REJECT
+
+ DOMAIN,dns.guanjia.qq.com,REJECT
+
+ DOMAIN,yx.qq.com,REJECT
+
+ DOMAIN,bh.3g.qq.com,REJECT
+
+ DOMAIN,tmsdk.qq.com,REJECT
+
+ DOMAIN,tt.qq.com,REJECT
+
+ DOMAIN,android.app.qq.com,REJECT
+
+ DOMAIN,uploadserver2.3g.qq.com,REJECT
+
+ DOMAIN,soft.qq.com,REJECT
+
+ DOMAIN,zhanlulab.tencent.com,REJECT
+
+ DOMAIN,sy.guanjia.qq.com,REJECT
+
+ DOMAIN,file.tav.qq.com,REJECT
+
+ DOMAIN,alab.qq.com,REJECT
+
+ DOMAIN,sdi.m.qq.com,REJECT
+
+ DOMAIN,kantu.qq.com,REJECT
+
+ DOMAIN,ad.browser.qq.com,REJECT
+
+ DOMAIN,slab.qq.com,REJECT
+
+ DOMAIN,hairuo.autocloud.map.qq.com,REJECT
+
+ DOMAIN,scrm.tencent.com,REJECT
+
+ DOMAIN,m4.qq.com,REJECT
+
+ DOMAIN,zs.myapp.com,REJECT
+
+ DOMAIN,cdk.acc.qq.com,REJECT
+
+ DOMAIN,pm.qq.com,REJECT
+
+ DOMAIN,yyb.myapp.com,REJECT
+
+ DOMAIN,qdesk.qq.com,REJECT
+
+ DOMAIN,anquan.tencent.com,REJECT
+
+ DOMAIN,luban.m.qq.com,REJECT
+
+ DOMAIN,channel.kingroot.net,REJECT
+
+ DOMAIN,s.tencent.com,REJECT
+
+ DOMAIN,blockchain.xlab.tencent.com,REJECT
+
+ DOMAIN,docs.beacon.qq.com,REJECT
+
+ DOMAIN,agent.sj.qq.com,REJECT
+
+ DOMAIN,sj.qq.com,REJECT
+
+ DOMAIN,svc.gtimg.com,REJECT
+
+ DOMAIN,pc.qq.com,REJECT
+
+ DOMAIN,mmm.qq.com,REJECT
+
+ DOMAIN,player.qq.com,REJECT
+
+ DOMAIN,11.duba.com,REJECT
+
+ DOMAIN,v.myapp.com,REJECT
+
+ DOMAIN,miyu.qq.com,REJECT
+
+ DOMAIN,kihanprobe.tgpa.qq.com,REJECT
+
+ DOMAIN,pubgmhdprobe.tgpa.qq.com,REJECT
+
+ DOMAIN,c.tdm.qq.com,REJECT
+
+ DOMAIN,d.tdm.qq.com,REJECT
+
+ DOMAIN,c.tdm.qq,REJECT
+
+ DOMAIN,appsupport.qq.com,REJECT
+
+ DOMAIN,test.qq.com,REJECT
+
+ DOMAIN,lixian.b.qq.com,REJECT
+
+ DOMAIN,control.mna.qq.com,REJECT
+
+ DOMAIN,control.mocmna.qq.com,REJECT
+
+ DOMAIN,vkpws.video.qq.com,REJECT
+
+ DOMAIN,vhotwsh.video.qq.com,REJECT
+
+ DOMAIN,wogame.wostore.cn,REJECT
+
+ DOMAIN,statics.igg.com,REJECT
+
+ DOMAIN,stsws.qq.com,REJECT
+
+ DOMAIN,v1-xg-web.ixigua.com,REJECT
+
+ DOMAIN,v1-vvideov.ixigua.com,REJECT
+
+ DOMAIN,v1-mllqsv.ixigua.com,REJECT
+
+ DOMAIN,download.1.418021106.gcloudpg.qq.com,REJECT
+
+ DOMAIN,puffer.3.418021106.gcloudpg.qq.com,REJECT
+
+ DOMAIN,sq4.pg.qq.com,REJECT
+
+ DOMAIN,idcconfig.gcloud.qq.com,REJECT
+
+ DOMAIN,hn15-taas.lol.qq.com,REJECT
+
+ DOMAIN,hkconfig.gcloud.qq.com,REJECT
+
+ DOMAIN,hn2-taas.lol.qq.com,REJECT
+
+ DOMAIN,hn5-taas.lol.qq.com,REJECT
+
+ DOMAIN,hn7-taas.lol.qq.com,REJECT
+
+ DOMAIN,hn13-taas.lol.qq.com,REJECT
+
+ DOMAIN,bgp1-taas.lol.qq.com,REJECT
+
+ DOMAIN,bgp2-taas.lol.qq.com,REJECT
+
+ DOMAIN,hkconfig.gcloud.qq,REJECT
+
+ DOMAIN,gamerchat.qq.com,REJECT
+
+ DOMAIN,cn.voice.gcloudcs.com,REJECT
+
+ DOMAIN,hpjy-op.tga.qq.com,REJECT
+
+ DOMAIN,report.tga.qq.com,REJECT
+
+ DOMAIN,maot.beijing-hualian.com,REJECT
+
+ DOMAIN,www.shidaiy.cn,REJECT
+
+ DOMAIN,www.jzmhtt.com,REJECT
+
+ DOMAIN,www.kids21.cn,REJECT
+
+ DOMAIN,p2.music.126.net,REJECT
+
+ DOMAIN,xunyou.mobi,REJECT
+
+ DOMAIN,mrw.so,REJECT
+
+ DOMAIN,api.xunyou.mobi,REJECT
+
+ DOMAIN,api.wsds.cn,REJECT
+
+ DOMAIN,sq17.pg.qq.com,REJECT
+
+ DOMAIN,apksec.qq.com,REJECT
+
+ DOMAIN,docs.wecity.qq.com,REJECT
+
+ DOMAIN,clientconfig.pcmgr.qq.com,REJECT
+
+ DOMAIN,scsc.xlab.tencent.com,REJECT
+
+ DOMAIN,wechat.wecity.qq.com,REJECT
+
+ DOMAIN,trp.qq.com,REJECT
+
+ DOMAIN,wd.qq.com,REJECT
+
+ DOMAIN,shuzhuo.qq.com,REJECT
+
+ DOMAIN,purify.kingroot.net,REJECT
+
+ DOMAIN,tanyi.qq.com,REJECT
+
+ DOMAIN,wesecure.qq.com,REJECT
+
+ DOMAIN,next.beacon.qq.com,REJECT
+
+ DOMAIN,speedm.broker.tplay.qq.com,REJECT
+
+ DOMAIN,hc.tdm.qq.com,REJECT
+
+ DOMAIN,hlsgs.iqilu.com,REJECT
+
+ DOMAIN,pull-flv-l1.ixigua.com.wsdvs.com,REJECT
+
+ DOMAIN,ksdlive.iqilu.com,REJECT
+
+ DOMAIN,livealone302.iqilu.com.wsdvs.com,REJECT
+
+ DOMAIN,ksdlive.gwpd.iqilu.com,REJECT
+
+ DOMAIN,livealone302.iqilu.com,REJECT
+
+ DOMAIN,camlive302.iqilu.com,REJECT
+
+ DOMAIN,v1-p.douyinvod.com,REJECT
+
+ DOMAIN,ksdlive.qlpd.iqilu.com.wsdvs.com,REJECT
+
+ DOMAIN,live-cnc-cdn.ysp.cctv.cn.net.qcloudcdn.cn,REJECT
+
+ DOMAIN,pull-flv-l1.ixigua.com,REJECT
+
+ DOMAIN,vod.cntv.lxdns.com,REJECT
+
+ DOMAIN,v1-dy.bytecdn.cn,REJECT
+
+ DOMAIN,zzxz.ipmph.com,REJECT
+
+ DOMAIN,wsrec.hls.video.qq.com,REJECT
+
+ DOMAIN,ltsws.qq.com,REJECT
+
+ DOMAIN,p2plive-ws.douyucdn.cn,REJECT
+
+ DOMAIN,cdn.mileweb.cs.steampowered.com.8686c.com,REJECT
+
+ DOMAIN,wap.gszq.com,REJECT
+
+ DOMAIN,120.111.18.215cdn.mileweb.cs.steampowered.com.8686c.com,REJECT
+
+ DOMAIN,iaus.asiainfo-sec.com,REJECT
+
+ DOMAIN,mdownload.mini1.cn,REJECT
+
+ DOMAIN,wsall.steampowered.com.8686c.com.mwcname.com,REJECT
+
+ DOMAIN,ws.pull.yximgs.com,REJECT
+
+ DOMAIN,p2pchunk-ws.douyucdn.cn,REJECT
+
+ DOMAIN,pull-flv-l1.douyincdn.com,REJECT
+
+ DOMAIN,mobilelive-cnc-cdn.ysp.cctv.cn,REJECT
+
+ DOMAIN,hlslive.tjxnwt.com,REJECT
+
+ DOMAIN,xm.down.2cq.com,REJECT
+
+ DOMAIN,cdn.runtu123.com,REJECT
+
+ DOMAIN,8.tlu.dl.delivery.mp.microsoft.com,REJECT
+
+ DOMAIN,download.windowsupdate.com,REJECT
+
+ DOMAIN,ws-origin.pull.yximgs.com,REJECT
+
+ DOMAIN,ctldl.windowsupdate.com,REJECT
+
+ DOMAIN,pull-flv-l1-hs.pstatp.com,REJECT
+
+ DOMAIN,v1-xg.ixigua.com,REJECT
+
+ DOMAIN,v1-default.ixigua.com,REJECT
+
+ DOMAIN,live-cnc-cdn.ysp.cctv.cn,REJECT
+
+ DOMAIN,bklive-cnc-cdn.ysp.cctv.cn,REJECT
+
+ DOMAIN,cdn2.ime.sogou.com,REJECT
+
+ DOMAIN,p2-cdn.aoborl.com,REJECT
+
+ DOMAIN,vodu8hrjk6k.vod.126.net,REJECT
+
+ DOMAIN,dl.appsearch.m.sogou.com,REJECT
+
+ DOMAIN,vodkrjojt7c.vod.126.net,REJECT
+
+ DOMAIN,yx-web-nosdn.netease.im,REJECT
+
+ DOMAIN,wanzhoulive.cbg.cn,REJECT
+
+ DOMAIN,v1-xg-6p.ixigua.com,REJECT
+
+ DOMAIN,dl.hz.37.com.cn,REJECT
+
+ DOMAIN,ws.stream.qqmusic.qq.com,REJECT
+
+ DOMAIN,resource.ciptc.org.cn,REJECT
+
+ DOMAIN,img.ipark.cn,REJECT
+
+ DOMAIN,www.xmcdn.com,REJECT
+
+ DOMAIN,f2dvideo.hsjdfw.com,REJECT
+
+ DOMAIN,zg.gdl.netease.com,REJECT
+
+ DOMAIN,qiezsp889911.chuantouchi.com,REJECT
+
+ DOMAIN,zmq.gph.netease.com,REJECT
+
+ DOMAIN,videony.byyjx.com,REJECT
+
+ DOMAIN,f2dvideo.hsjdfw.com.meiriyouchang.com,REJECT
+
+ DOMAIN,v1-tt.ixigua.com,REJECT
+
+ DOMAIN,business.tenpay.com,REJECT
+
+ DOMAIN,qos.game.qq.com,REJECT
+
+ DOMAIN,sdk.ino.qcloud.com,REJECT
+
+ DOMAIN,sq3.pg.qq.com,REJECT
+
+ DOMAIN,waibao.qq.com,REJECT
+
+ DOMAIN,nggproxy.3g.qq.com,REJECT
+
+ DOMAIN,007.qq.com,REJECT
+
+ DOMAIN,iosapps.downl.ino.qq.com,REJECT
+
+ DOMAIN,codown.youdao.com,REJECT
+
+ DOMAIN,cms.cnc.blzstatic.cn,REJECT
+
+ DOMAIN,live.cgtn.com,REJECT
+
+ DOMAIN,ins-gk5vby51.ias.tencent-cloud.net,REJECT
+
+ DOMAIN,downv6.qq.com,REJECT
+
+ DOMAIN,downloadjstest.tcdn.qq.com,REJECT
+
+ DOMAIN,tlu.dl.delivery.mp.microsoft.com.cdn.dnsv1.com,REJECT
+
+ DOMAIN,s3.cache.qcloudcdn.com,REJECT
+
+ DOMAIN,appdlsslbackup.dbankcdn.com,REJECT
+
+ DOMAIN,dlied1.qq.com.sched.dlied1.tdnsv5.com,REJECT
+
+ DOMAIN,pp.myapp.com,REJECT
+
+ DOMAIN,pgdt.gtimg.cn,REJECT
+
+ DOMAIN,www.tencent.com,REJECT
+
+ DOMAIN,mmocgame.qpic.cn,REJECT
+
+ DOMAIN,inews.gtimg.com,REJECT
+
+ DOMAIN,pnewsapp.tc.qq.com,REJECT
+
+ DOMAIN,res.wx.qq.com,REJECT
+
+ DOMAIN,ssd.tcdn.qq.com,REJECT
+
+ DOMAIN,mmbiz.qpic.cn,REJECT
+
+ DOMAIN,cdn.ark.qq.com,REJECT
+
+ DOMAIN,resstatic.servicewechat.com,REJECT
+
+ DOMAIN,txtslivesh.cctv4g.com,REJECT
+
+ DOMAIN,android.bugly.qq.com,REJECT
+
+ DOMAIN,down-update.qq.com.tcdn.qq.com,REJECT
+
+ DOMAIN,pcgame.myapp.com,REJECT
+
+ DOMAIN,down.pandora.qq.com.tcdn.qq.com,REJECT
+
+ DOMAIN,down.qq.com.sched.dlied1.tdnsv5.com,REJECT
+
+ DOMAIN,godlied4.myapp.com,REJECT
+
+ DOMAIN,down.pandora.qq.com.sched.dlied1.tdnsv5.com,REJECT
+
+ DOMAIN,down.qianbao.qq.com,REJECT
+
+ DOMAIN,offlinepkg.vip.qq.com,REJECT
+
+ DOMAIN,hb.url.cn,REJECT
+
+ DOMAIN,dlied5.myapp.com,REJECT
+
+ #山谷面子.txt,REJECT
+
+ DOMAIN,www.828501.com,REJECT
+
+ DOMAIN,all.aa25811.com,REJECT
+
+ DOMAIN,3333002.com,REJECT
+
+ DOMAIN,www.639u.com,REJECT
+
+ DOMAIN,goo.gl,REJECT
+
+ DOMAIN,images.app.goo.gl,REJECT
+
+ DOMAIN,c363.com,REJECT
+
+ DOMAIN,m.169281.com,REJECT
+
+ DOMAIN,www.728aaa.com,REJECT
+
+ DOMAIN,btbook.com,REJECT
+
+ DOMAIN,tfhub.dev,REJECT
+
+ DOMAIN,www.481323.com,REJECT
+
+ DOMAIN,8c7e21d8b66f7d92642b5850900ed44f.upay668.com,REJECT
+
+ DOMAIN,m.170084.com,REJECT
+
+ DOMAIN,www.00123.com,REJECT
+
+ DOMAIN,msf.sparta.mig.tencent-cloud.net,REJECT
+
+ DOMAIN,www.7471a.com,REJECT
+
+ DOMAIN,www.521.buzz,REJECT
+
+ DOMAIN,www.4813111.com,REJECT
+
+ DOMAIN,www.613177.com,REJECT
+
+ DOMAIN,ncxyapp.z.qq.com,REJECT
+
+ DOMAIN,m.xiaoqiangxs.org,REJECT
+
+ DOMAIN,cs-go.com,REJECT
+
+ DOMAIN,808hj.com,REJECT
+
+ DOMAIN,1189111.com,REJECT
+
+ DOMAIN,www.7471b.com,REJECT
+
+ DOMAIN,boodo.com,REJECT
+
+ DOMAIN,m.meixiuchang.net,REJECT
+
+ DOMAIN,www.lulu00.com,REJECT
+
+ DOMAIN,sng.qq.com,REJECT
+
+ DOMAIN,configsvr.openmsf.3g.qq.com,REJECT
+
+ DOMAIN,www.9pz.com,REJECT
+
+ DOMAIN,media.yanchangba.com,REJECT
+
+ DOMAIN,www.4813.com,REJECT
+
+ DOMAIN,www.0336.com,REJECT
+
+ DOMAIN,45988.cn,REJECT
+
+ DOMAIN,www.pansidon.com,REJECT
+
+ DOMAIN,soup.v.qq.com,REJECT
+
+ DOMAIN,dmb.uk.to,REJECT
+
+ DOMAIN,sq2.pg.qq.com,REJECT
+
+ DOMAIN,521.buzz,REJECT
+
+ DOMAIN,www.7471.com,REJECT
+
+ DOMAIN,118361.com,REJECT
+
+ DOMAIN,v.mms.qq.com,REJECT
+
+ DOMAIN,0336.com,REJECT
+
+ DOMAIN,www.5603.com,REJECT
+
+ DOMAIN,www.3426.com,REJECT
+
+ DOMAIN,language.coloros.com,REJECT
+
+ DOMAIN,developer.android.com,REJECT
+
+ DOMAIN,youtu.be,REJECT
+
+ DOMAIN,ysdk.qq.com,REJECT
+
+ DOMAIN,www.421.com,REJECT
+
+ DOMAIN,qrgo.page.link,REJECT
+
+ DOMAIN,7471b.com,REJECT
+
+ DOMAIN,www.aa2583.com,REJECT
+
+ DOMAIN,118f.com,REJECT
+
+ DOMAIN,www.118f.com,REJECT
+
+ DOMAIN,switch.video.qq.com,REJECT
+
+ DOMAIN,d.android.com,REJECT
+
+ DOMAIN,kk5555.com,REJECT
+
+ DOMAIN,481323.com,REJECT
+
+ DOMAIN,iacc.qq.com,REJECT
+
+ DOMAIN,4latest.business.site,REJECT
+
+ DOMAIN,szlong.weixin.qq.com,REJECT
+
+ DOMAIN,uploadlog.video.qq.com,REJECT
+
+ DOMAIN,7471a.com,REJECT
+
+ DOMAIN,www.g7yy.com,REJECT
+
+ DOMAIN,mpitesan.page.link,REJECT
+
+ DOMAIN,msf.ias.tencent-cloud.net,REJECT
+
+ DOMAIN,dragate.dc.oppomobile.com,REJECT
+
+ DOMAIN,configsvr.msf.3g.qq.com,REJECT
+
+ DOMAIN,www.262s.com,REJECT
+
+ DOMAIN,sgameprobe.tgpa.qq.com,REJECT
+
+ DOMAIN,www.gugoo.cc,REJECT
+
+ DOMAIN,www.ye123.cc,REJECT
+
+ DOMAIN,www.pysk.com,REJECT
+
+ DOMAIN,gznanjin.com,REJECT
+
+ DOMAIN,www.jinyangpay.com,REJECT
+
+ DOMAIN,m.200943.com,REJECT
+
+ DOMAIN,www.x6x7.com,REJECT
+
+ DOMAIN,www.freetv.gq,REJECT
+
+ DOMAIN,probe.tgpa.qq.com,REJECT
+
+ DOMAIN,pysk.com,REJECT
+
+ DOMAIN,configsvr.sparta.html5.qq.com,REJECT
+
+ DOMAIN,m.182484.com,REJECT
+
+ DOMAIN,850.com,REJECT
+
+ DOMAIN,www.kk5555.com,REJECT
+
+ DOMAIN,www.btbook.com,REJECT
+
+ DOMAIN,www.a.shifen.com,REJECT
+
+ DOMAIN,www.850.com,REJECT
+
+ #ip
+
+ IP-CIDR,112.65.193.176,REJECT
+
+ IP-CIDR,58.247.214.177,REJECT
+
+ DOMAIN,bbs.qcloud.com,REJECT
+
+ IP-CIDR
+
+ IP-CIDR,210.22.247.108,REJECT
+
+ IP-CIDR,10.139.248.238,REJECT
+
+ IP-CIDR,49.234.26.22,REJECT
+
+ IP-CIDR,119.188.36.137,REJECT
+
+ IP-CIDR,182.254.116.117,REJECT
+
+ IP-CIDR,36.249.84.233,REJECT
+
+ IP-CIDR,42.231.136.163,REJECT
+
+ IP-CIDR,36.152.4.34,REJECT
+
+ IP-CIDR,140.206.162.178,REJECT
+
+ IP-CIDR,58.246.220.12,REJECT
+
+ IP-CIDR,220.194.111.203,REJECT
+
+ IP-CIDR,122.96.96.217,REJECT
+
+ IP-CIDR,122.96.96.222,REJECT
+
+ IP-CIDR,220.194.95.170,REJECT
+
+ IP-CIDR,122.96.96.179,REJECT
+
+ IP-CIDR,122.96.96.253,REJECT
+
+ IP-CIDR,101.91.5.180,REJECT
+
+ IP-CIDR,122.96.96.251,REJECT
+
+ IP-CIDR,122.96.96.152,REJECT
+
+ IP-CIDR,101.226.103.110,REJECT
+
+ IP-CIDR,182.254.10.42,REJECT
+
+ IP-CIDR,140.207.69.43,REJECT
+
+ IP-CIDR,122.96.96.206,REJECT
+
+ IP-CIDR,122.96.96.213,REJECT
+
+ IP-CIDR,122.96.96.211,REJECT
+
+ IP-CIDR,122.96.96.250,REJECT
+
+ IP-CIDR,117.135.169.46,REJECT
+
+ IP-CIDR,121.4.8.102,REJECT
+
+ IP-CIDR,81.68.134.17,REJECT
+
+ IP-CIDR,81.68.134.31,REJECT
+
+ IP-CIDR,153.3.50.77,REJECT
+
+ IP-CIDR,113.194.59.186,REJECT
+
+ IP-CIDR,101.89.15.229,REJECT
+
+ IP-CIDR,58.247.214.100,REJECT
+
+ IP-CIDR,119.36.245.182,REJECT
+
+ IP-CIDR,47.103.184.123,REJECT
+
+ IP-CIDR,182.254.120.117,REJECT
+
+ IP-CIDR,58.247.206.172,REJECT
+
+ IP-CIDR,10.33.63.7,REJECT
+
+ IP-CIDR,140.206.164.231,REJECT
+
+ IP-CIDR,157.0.149.72,REJECT
+
+ IP-CIDR,140.206.162.90,REJECT
+
+ IP-CIDR,153.3.149.208,REJECT
+
+ IP-CIDR,58.247.215.105,REJECT
+
+ IP-CIDR,58.250.137.42,REJECT
+
+ IP-CIDR,58.246.163.173,REJECT
+
+ IP-CIDR,211.95.52.145,REJECT
+
+ IP-CIDR,172.18.11.218,REJECT
+
+ IP-CIDR,58.247.214.32,REJECT
+
+ IP-CIDR,140.206.164.205,REJECT
+
+ IP-CIDR,112.86.240.27,REJECT
+
+ IP-CIDR,112.64.235.23,REJECT
+
+ IP-CIDR,122.96.235.163,REJECT
+
+ IP-CIDR,157.0.106.20,REJECT
+
+ IP-CIDR,153.3.50.96,REJECT
+
+ IP-CIDR,139.196.2.206,REJECT
+
+ IP-CIDR,112.65.193.193,REJECT
+
+ IP-CIDR,58.247.205.120,REJECT
+
+ IP-CIDR,39.156.118.0,REJECT
+
+ IP-CIDR,114.221.148.192,REJECT
+
+ IP-CIDR,36.155.249.82,REJECT
+
+ IP-CIDR,120.238.145.88,REJECT
+
+ IP-CIDR,121.51.36.19,REJECT
+
+ IP-CIDR,192.168.1.3,REJECT
+
+ IP-CIDR,49.234.160.121,REJECT
+
+ IP-CIDR,223.111.192.226,REJECT
+
+ IP-CIDR,106.3.19.49,REJECT
+
+ IP-CIDR,112.53.36.18,REJECT
+
+ IP-CIDR,183.192.179.21,REJECT
+
+ IP-CIDR,117.184.238.143,REJECT
+
+ IP-CIDR,183.192.199.116,REJECT
+
+ IP-CIDR,36.155.233.95,REJECT
+
+ IP-CIDR,120.204.16.144,REJECT
+
+ IP-CIDR,36.155.202.15,REJECT
+
+ IP-CIDR,117.169.98.68,REJECT
+
+ IP-CIDR,120.204.9.105,REJECT
+
+ IP-CIDR,112.53.27.100,REJECT
+
+ IP-CIDR,111.48.44.253,REJECT
+
+ IP-CIDR,183.204.14.116,REJECT
+
+ IP-CIDR,120.204.23.179,REJECT
+
+ IP-CIDR,36.155.244.178,REJECT
+
+ IP-CIDR,36.152.44.95,REJECT
+
+ IP-CIDR,173.194.197.188,REJECT
+
+ IP-CIDR,117.169.98.124,REJECT
+
+ IP-CIDR,172.217.160.78,REJECT
+
+ IP-CIDR,221.181.81.191,REJECT
+
+ IP-CIDR,183.192.177.23,REJECT
+
+ IP-CIDR,101.32.0.0/16,REJECT
+
+ IP-CIDR,119.28.0.0/16,REJECT
+
+ IP-CIDR,129.226.0.0/16,REJECT
+
+ IP-CIDR,150.109.0.0/16,REJECT
