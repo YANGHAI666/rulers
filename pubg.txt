@@ -23,7 +23,7 @@
 
  DOMAIN,configsvr.openmsf.3g.qq.com,REJECT
 
- USER-AGENT,Survive*,REJECT
+ 
 
  USER-AGENT,CFNetwork*,REJECT
 
