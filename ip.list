@@ -1,3 +1,7 @@
+
+IP-CIDR,61.241.44.76/22,REJECT,no-resolve
+#下载
+DOMAIN,download.1.418021106.gcloudpg.qq.com,REJECT
  
  
  IP-CIDR,36.155.249.82/12,REJECT
