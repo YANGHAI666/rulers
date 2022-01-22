@@ -22,7 +22,7 @@ $.get(request)
   .then((resp) => {
     const data = resp.body;
     $.log("Response body: \n" + data);
-    $.notify("请求成功", "", data)
+    
   })
   .catch((err) => $.notify("请求失败！", "", JSON.stringify(err)));
   $.done();
