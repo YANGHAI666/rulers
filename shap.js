@@ -24,7 +24,7 @@ $.get(request)
     $.log("Response body: \n" + data);
     
   })
-  .catch((err) => $.notify("请求失败！", "", JSON.stringify(err)));
+  
   $.done();
 
 // prettier-ignore
