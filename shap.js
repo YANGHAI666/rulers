@@ -8,9 +8,9 @@ const headers = {
     "Host": "prod.api.shapr3d.com",
     "X-Shapr-Device-Id": "39C3B6B5-950A-4C3E-AF31-5A1391EA2927",
     "X-Shapr-Platform": "ios",
-    "User-Agent": "Shapr3D/5.40.0 (com.shapr3d.shapr; build:2174; iOS 14.3.0) Alamofire/5.4.1",
-    "Authorization": "Bearer eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2NDI4NTI3MTcsImlhdCI6MTY0Mjg1MTUxNywiaXNzIjoiU0hBUFIzRCIsInN1YiI6ImIyNWJlMjBiLTcwNGYtNDJkMC04ZTQ5LTBhZWIzZmUxZTQ3YyIsInR5cCI6ImFjY2VzcyIsImF1ZCI6ImFwcCJ9.WRKvrG81DpZNwIthMms1kmG0vHXNKvMkeizkWFpl0tS4rFva-0at6Nv1DUsxwrXDTYOvDnF9JDaQKmBB5IdmUQ",
-    "X-Shapr-App-Version": "5.40.0.2174"
+    "User-Agent": "Shapr3D/5.60.0 (com.shapr3d.shapr; build:2371; iOS 15.1.0) Alamofire/5.4.1",
+    "Authorization": "Bearer eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2NDYzNDk2MjYsImlhdCI6MTY0NjM0ODQyNiwiaXNzIjoiU0hBUFIzRCIsInN1YiI6ImIyNWJlMjBiLTcwNGYtNDJkMC04ZTQ5LTBhZWIzZmUxZTQ3YyIsInR5cCI6ImFjY2VzcyIsImF1ZCI6ImFwcCJ9.inDptkY6vgeFdMQyHU_HXPzUsg1ks0XDpbUzOZpPd2A8BEUtwPyO16M61Dsm4hoiHf6lt0u0Gjj1Yhp2xrDtdw",
+    "X-Shapr-App-Version": "5.60.0.2371"
 };
 const request = {
     url: url,
@@ -22,9 +22,9 @@ $.get(request)
   .then((resp) => {
     const data = resp.body;
     $.log("Response body: \n" + data);
-    
+    $.notify("请求成功", "", data)
   })
-  
+  .catch((err) => $.notify("请求失败！", "", JSON.stringify(err)));
   $.done();
 
 // prettier-ignore
