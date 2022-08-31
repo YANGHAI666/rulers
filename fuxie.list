@@ -1,0 +1,66 @@
+[\w\W]*down.pandora.qq.com/cjm/ reject-200
+[\w\W]*cdn.wetest.qq.com/cube/com/apmcc/TAPM_IOS_APM_PUBGMMHD reject
+[\w\W]*gpcloud.tgpa.qq.com/cloudctrl/cloud_ctrl reject
+[\w\W]*anticheatexpert reject-array
+[\w\W]*check reject-dict
+[\w\W]*warmer reject-img
+[\w\W]*probe reject-dict
+[\w\W]*logblob reject-img
+[\w\W]*senderconfig reject-img
+[\w\W]*&lang=en header-replace &lang=en &tlang=zh-Hans
+
+[a-zA-z]+://[\w\W]*LSGame reject-dict
+[a-zA-z]+://[\w\W]*mads reject-200
+[a-zA-z]+://[\w\W]*mobads reject-array
+[a-zA-z]+://lupic.cdn.bcebos.com reject-img
+[a-zA-z]+://[\w\W]*ad-pattern reject-dict
+[a-zA-z]+://[\w\W]*api/ad reject-dict
+[a-zA-z]+://[\w\W]*/ssp.1rtb.com/req_ad reject
+[a-zA-z]+://[\w\W]*/subscribers/385 reject
+[a-zA-z]+://[\w\W]*static.file.afreecatv.com/ad reject-dict
+^https?:\/\/(www.)?(g|google)\.com.hk header www.google.com
+[a-zA-z]+://[\w\W]*getBubbleInfo reject-dict
+[a-zA-z]+://[\w\W]*getReactNativeVersion reject-dict
+[a-zA-z]+://[\w\W]*getIosDegrade reject-dict
+[a-zA-z]+://[\w\W]*stylesQueryList reject-img
+[a-zA-z]+://[\w\W]*openUpgrade reject-dict
+[a-zA-z]+://[\w\W]*adview reject-dict
+	
+[a-zA-z]+://[\w\W]*kg_ad/ reject-img
+[a-zA-z]+://[\w\W]*adimg reject-dict
+[a-zA-z]+://[\w\W]*api/ad reject-img
+[a-zA-z]+://[\w\W]*advertisement/advShows reject-dict
+[a-zA-z]+://[\w\W]*/web.business.image/ reject-dict
+[a-zA-z]+://sf3-be-pack.pglstatp-toutiao.com/img/web.business.image/.? reject-200
+enable = true	
+^https?:\/\/(www.)?(g|google)\.cn 302 https://www.google.com
+^https?+:\/\/mp\.weixin\.qq\.com\/mp\/(?>ad_|advertisement|getappmsgad) reject-200
+[a-zA-z]+://[^\s]*/d\?dn\=sqlobby.pg.qq.com reject-dict
+[a-zA-z]+://time-ios.apple.com reject
+[a-zA-z]+://szmg.qq.com/ reject
+[a-zA-z]+://cloudc3trl.gcloud.qq.com/ reject
+[a-zA-z]+://[^\s]*/iedsafe/Client/ios/2131/3D0158D4/mrpcs.data reject-dict
+[a-zA-z]+://[^\s]*/iedsafe/Client/ios/2131/B5589C60/mrpcs.data reject-dict
+[a-zA-z]+://[^\s]*/iedsafe/Client/ios/2131/E68911A6/mrpcs.data reject-dict
+[a-zA-z]+://[^\s]*/iedsafe/Client/ios/2131/1C8710C6/tssmua.zip reject-dict
+[a-zA-z]+://[^\s]*/iedsafe/Client/ios/2131/51264CF2/tssmua.zip reject-dict
+[a-zA-z]+://[^\s]*/iedsafe/Client/ios/2131/9B711ABD/tssmua.zip reject-dict
+[a-zA-z]+://[^\s]*/iedsafe/Client/ios/2131/1C8710C6/tssmua.zip reject-dict
+[a-zA-z]+://[^\s]*/iedsafe/Client/ios/2131/0AEE5282/comm.dat reject-dict
+[a-zA-z]+://[^\s]*/iedsafe/Client/ios/2131/6C447D36/tss_cef.dat reject-dict
+[a-zA-z]+://[^\s]*/iedsafe/Client/ios/2131/2391FD6A/tss_cfg2.dat reject-dict
+[a-zA-z]+://[^\s]*/iedsafe/Client/ios/8999/config3.xml reject-dict
+[a-zA-z]+://[^\s]*/iedsafe/Client/ios/8999/config2.xml reject-dict
+[a-zA-z]+://[^\s]*/iedsafe/Client/ios/2131/config2.xml reject-dict
+[a-zA-z]+://[^\s]*/iedsafe/Client/ios/2131/config3.xml reject-dict
+[a-zA-z]+://[^\s]*/jdqssy/texture/conf3ig/ reject-dict
+^http:?/\/.*?/dlied1.qq.com/jdqssy/billboard/*/* reject
+			
+^http:?/\/.*?xkkgame.*?/ reject-dict
+^https:?/\/.*?xkkgame.*?/ 307 _
+^https:?/\/.*?/dlied1.qq.com/jdqssy/texture/config/* reject-dict
+^https:?/\/.*?qq.*?/dlied1.qq.com/jdqssy/texture/config/* reject-dict
+^http:?/\/.*?qq.*?/dlied1.qq.com/jdqssy/texture/config/* reject-dict
+^http:?/\/.*?/dlied1.qq.com/jdqssy/texture/config/* reject-dict
+^https:?/\/.*?.*?/dlied1.qq.com/jdqssy/texture/config/.*?.*?？ reject-dict
+			
