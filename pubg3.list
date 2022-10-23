@@ -1,11 +1,7 @@
-DOMAIN,nj.cschannel.anticheatexpert.com
-DOMAIN,cs.mbgame.gamesafe.qq.com
-DOMAIN,ipv6.mainconn.gamesafe.qq.com
-DOMAIN,cs.mbgame.anticheatexpert.com
-DOMAIN,cschannel.anticheatexpert.com
-DOMAIN,cs.mainconn.gamesafe.qq.com
-DOMAIN,hc.tdm.qq.com
-DOMAIN,sqlobby.pg.qq.com
+
+
+
+
 DOMAIN,17500.aioks.cn
 DOMAIN,sq4.pg.qq.com
 DOMAIN,jsonatm.broker.tplay.qq.com
@@ -394,10 +390,8 @@ DOMAIN,wgdl.qq.com
 DOMAIN,qd.myapp.com
 DOMAIN,hb.url.cn
 DOMAIN,dlied1.myapp.tc.qq.com
-DOMAIN,cschannel.anticheatexpert.com
-DOMAIN,nj.cschannel.anticheatexpert.com
-DOMAIN,cs.mainconn.gamesafe.qq.com
-DOMAIN,cs.mbgame.gamesafe.qq.com
+
+
 DOMAIN,ipv6.mainconn.gamesafe.qq.com
 DOMAIN,cs.mbgame.anticheatexpert.com
 DOMAIN,le.proxyacc.qq.com
@@ -493,10 +487,7 @@ DOMAIN,apd-videohy.apdcdn.tc.qq.com
 DOMAIN,videohy.tc.qq.com
 DOMAIN,le.proxyacc.qq.com
 DOMAIN,mayybkconn.3g.qq.com
-DOMAIN,cschannel.anticheatexpert.com
-DOMAIN,nj.cschannel.anticheatexpert.com
-DOMAIN,cs.mainconn.gamesafe.qq.com
-DOMAIN,cs.mbgame.gamesafe.qq.com
+
 DOMAIN,ipv6.mainconn.gamesafe.qq.com
 DOMAIN,cs.mbgame.anticheatexpert.com
 DOMAIN,sqlobby.pg.qq.com
@@ -607,4 +598,3 @@ DOMAIN,ins-mfa9hirw.ias.tencent-cloud.net
 DOMAIN,ins-9fciednc.ias.tencent-cloud.net
 DOMAIN,android.rqd.qq.com
 DOMAIN,ins-o9iydzqn.ias.tencent-cloud.net
-
