@@ -1,0 +1,7 @@
+IP-CIDR,36.155.202.1/16,防封
+DOMAIN-SUFFIX,down.anticheatexpert.com,防封
+DOMAIN-SUFFIX,oth.str.mdt.qq.com,防封
+DOMAIN-SUFFIX,hc3.tdm.qq.com,防封
+DOMAIN-SUFFIX,down.anticheatexpert.com,防封
+DOMAIN-KEYWORD,tgpa,防封
+DOMAIN-SUFFIX,apd-pcdnieghplogin.teg.tencent-cloud.net,防封
